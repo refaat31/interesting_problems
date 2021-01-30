@@ -9,6 +9,54 @@ Write a function checkLampIllumination(N, lamps, queries)
 * queries : coordinates on the grid to be checked if they are lit or not
 
 
+### Test Cases
+* Case 1
+
+
+**Input:**
+
+    N = 8
+
+    lamps = [
+        [1,6],
+        [5,6],
+        [7,3],
+        [3,2]
+    ]
+
+    queries = [
+        [4,4],
+        [6,6],
+        [8,1],
+        [3,2],
+        [2,3]
+    ]
+
+**Output:**
+
+    ['DARK','LIGHT','DARK','DARK','LIGHT']
+
+
+* Case 2
+
+
+**Input:**
+
+    N = 8
+
+    lamps = [
+        [4,3],
+        [4,4]
+    ]
+
+    queries = [
+        [3,4],
+        [7,6]
+    ]
+
+**Output:**
+
+    ['DARK','LIGHT']
 
 
 [Home](../README.md)
