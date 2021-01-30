@@ -8,11 +8,13 @@ Write a function checkLampIllumination(N, lamps, queries)
 * lamps : coordinates of a lamp
 * queries : coordinates on the grid to be checked if they are lit or not
 
- 
- [Home](../README.md)
 
- [Problem Statement source](https://stackoverflow.com/questions/52361148/finding-coordinates-on-a-grid-2d-array)
 
- [My Solution (approach)](../approaches/Dark_or_Light_approach.md)
- 
- [My Solution (code)](../solutions/Dark_or_Light.cpp)
+
+[Home](../README.md)
+
+[Problem Statement source](https://stackoverflow.com/questions/52361148/finding-coordinates-on-a-grid-2d-array)
+
+[My Solution (approach)](../approaches/Dark_or_Light_approach.md)
+
+[My Solution (code)](../solutions/Dark_or_Light.cpp)
