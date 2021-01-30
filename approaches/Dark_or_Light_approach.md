@@ -11,6 +11,9 @@
 **Output**:
 * Dark or Light?
 
+**Solution Type**
+* Brute-force
+
 ### Approach explained :
 
 First of all, for each queried position, I copy the original given lamp array.
