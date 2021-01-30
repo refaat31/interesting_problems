@@ -10,6 +10,9 @@ Write a function checkLampIllumination(N, lamps, queries)
 
  
  [Home](../README.md)
+
  [Problem Statement source](https://stackoverflow.com/questions/52361148/finding-coordinates-on-a-grid-2d-array)
+
  [My Solution (approach)](../approaches/Dark_or_Light_approach.md)
+ 
  [My Solution (code)](../solutions/Dark_or_Light.cpp)

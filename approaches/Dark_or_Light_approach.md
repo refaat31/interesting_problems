@@ -24,5 +24,7 @@ Then, all I have to do is see if the queried position matches any of the remaini
 If it does, then the answer is 'LIGHT', else 'DARK'.
 
 [Home](../README.md)
+
 [Problem Statement](./problem_statements/Dark_or_Light.md)
+
 [My Solution (code)](../solutions/Dark_or_Light.cpp)
