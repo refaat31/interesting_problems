@@ -5,8 +5,8 @@
 
 **Input**:
 * N - size of grid
-* noOfLamps 
-* noOfQueries
+* noOfLamps & their coordinates
+* noOfQueries & their coordinates
 
 **Output**:
 * Dark or Light?
